@@ -1,4 +1,4 @@
-# GoLang Pacakges
+# GoLang Packages
 
 Here some GoLang packages that help perform testing.
 
