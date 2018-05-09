@@ -4,7 +4,7 @@ Here some GoLang packages that help perform testing.
 
 ## Packages List
 
-* `http_client` - HTTP client with loging
+* `http_client` - HTTP client with logging
 
 ```go
 func Init() {
